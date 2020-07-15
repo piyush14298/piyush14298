@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+Hi, my name is [Piyush](https://piyush14298.github.io/). I am a student at BML Munjal University. I am a passionate coder and have experience in Algorithms, Data Structures, backend developement, web developement, etc. As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. 
 
-<!--
-**piyush14298/piyush14298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **piyush14298/piyush14298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
