@@ -8,8 +8,7 @@ Hi, my name is [Piyush](https://piyush14298.github.io/). I am a student at BML M
 
 - 🔭 I’m currently looking for job opportunities. Have a look at my [profile](https://piyush14298.github.io/).
 - 🌱 I’m currently learning ...
-    - <mark>Vue</mark> framework
-    - <mark>Firebase</mark>
+    - <mark>Django</mark> framework
 - ⚡ I am comfortable with...
     - <mark>C++</mark>
     - <mark>Java</mark>
