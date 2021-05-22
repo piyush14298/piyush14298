@@ -6,7 +6,7 @@ Hi, my name is [Piyush](https://piyush14298.github.io/). I am a student at BML M
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently looking for job opportunities. Have a look at my [profile](https://piyush14298.github.io/).
+- ✨ I’m currently working as a Software Engineer at Google India. 
 - 🌱 I’m currently learning ...
     - <mark>Django</mark> framework
 - ⚡ I am comfortable with...
