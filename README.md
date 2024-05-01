@@ -19,7 +19,6 @@ Hi, my name is [Piyush](https://piyush14298.github.io/). I am a Software Enginee
     - <mark>Javascript</mark>
 - 📫 How to reach me: ...
     - piyoosh14298@gmail.com
-    - +91-8360734123
 - 😄 Pronouns: ...
     He/Him
 
